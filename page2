@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+  <title> More info. </title>
+  </head>
+  <head>
+    <body>
+<h2> My Kitties <3 </h2>
+<img src="mybabies.jpg" alt="Kitties" width="500">
+</body>
